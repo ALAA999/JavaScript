@@ -3,8 +3,7 @@ num = Math.round(2.4); // 2
 num = Math.round(2.7); // 3
 num = Math.ceil(2.4); // 3
 num = Math.sqrt(64); // 8 
-num = Math.abs(-3); // 3
-num = Math.pow(3, 2); // 9
+
 num = Math.min(2, 4); // 2
 num = Math.max(2, 4, 5, 6); // 6
 num = Math.random();
